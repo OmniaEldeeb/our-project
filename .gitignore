@@ -1,0 +1,4 @@
+*.log
+!o.log
+s.img
+fold/
